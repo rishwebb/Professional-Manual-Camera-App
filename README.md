@@ -1,11 +1,11 @@
-# 📸 FocalShot Pro: Professional Manual Camera & RAW Photography Suite
+# 📸 Professional Manual Camera App for Android
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
 [![CameraX](https://img.shields.io/badge/API-CameraX%20%2F%20Camera2-blue.svg)](https://developer.android.com/training/camerax)
 [![Photography](https://img.shields.io/badge/Feature-Manual%20ISO%20%26%20Shutter-orange.svg)](https://github.com/rishwebb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**FocalShot Pro** is an enthusiast mobile photography suite bringing manual DSLR-grade controls to mobile devices. It unlocks manual exposure compensation, granular ISO tuning, custom shutter speeds, focus peaking, and uncompressed DNG RAW image capture.
+**Professional Manual Camera App** is an enthusiast mobile photography suite bringing manual DSLR-grade controls to mobile devices. It unlocks manual exposure compensation, granular ISO tuning, custom shutter speeds, focus peaking, and uncompressed DNG RAW image capture.
 
 ---
 
